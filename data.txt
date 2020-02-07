@@ -1,0 +1,4 @@
+I love Ruby
+Ruby is the best programming language
+Hadoop is great
+Spark is better
