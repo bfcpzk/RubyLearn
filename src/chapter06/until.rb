@@ -18,7 +18,7 @@ until sum >= 50
 end
 puts "sum : #{sum}"
 
-#while_not
+#while_not，利用否定符号和while也可以
 i = 0
 sum = 0
 while !(sum >= 50) do

@@ -23,3 +23,8 @@ p wday[6] #=> "土"
 p wday[11] #=> "木"
 p wday[15] #=> "月"
 p wday[-1] #=> "土"
+
+#BasicObject是Object的轻量级版本
+#如果不需要更多的方法的话，可以选择BasicObject去继承
+puts Object.instance_methods
+puts BasicObject.instance_methods
